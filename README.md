@@ -4,15 +4,17 @@ cover: >-
 coverY: 0
 ---
 
-# 👋 Welcome!
+# Apresentação
 
 {% hint style="info" %}
 **About this template:** An Internal Wiki to lay out everything anyone needs to know about the company, help others get to know your team, product or company better..
 {% endhint %}
 
-For **new team members**, this space will be helpful during your first days with the team, to better learn about who we are and how we work.
+Sou curioso. Tenho particular interesse em compreender os "comos" e os "porquês" das coisas, em  descobrir ou conjecturar sobre as razões disto e daquilo. Este traço tem estado presente também - talvez especialmente - da dimensão profissional da minha vida como trabalhador do serviço público.&#x20;
 
-For **long-time team members**, this space will act as a reminder and allow you to find answers about admin and policies etc.
+Tenho, assim, nestes tantos anos de serviço públicos, descoberto, aprendido e inventado muitas coisas. Este livro é um registro de algumas destas coisas, que escrevo para servir de ajuda-memória para mim mesmo. Tento coletar, juntar e "fazer sentido junto" uma porção de reflexões, notas, ferramentas de trabalho que, de outra modo, estariam completamente dispersas em espaços diferentes, dispersas.
+
+Farei isto no formato de um livro público e gratuito, pois além de ser útil para mim, pode ser útil a mais pessoas.
 
 <details>
 

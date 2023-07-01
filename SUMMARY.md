@@ -1,24 +1,24 @@
 # Table of contents
 
-* [👋 Welcome!](README.md)
+* [Apresentação](README.md)
 
-## About us
+## GEPAP
 
-* [🚀 Vision, Mission & Focus](about-us/vision-mission-and-focus/README.md)
-  * [Vision](about-us/vision-mission-and-focus/vision.md)
-  * [Mission](about-us/vision-mission-and-focus/mission.md)
-  * [Focus](about-us/vision-mission-and-focus/focus.md)
-* [💖 Values](about-us/values.md)
+* [🚀 Vision, Mission & Focus](gepap/vision-mission-and-focus/README.md)
+  * [Vision](gepap/vision-mission-and-focus/vision.md)
+  * [Mission](gepap/vision-mission-and-focus/mission.md)
+  * [Focus](gepap/vision-mission-and-focus/focus.md)
+* [💖 Values](gepap/values.md)
 
-## Team
+## 🔬 Ciência? de Dados
 
-* [👋 Meet the Team!](team/meet-the-team.md)
+* [👋 Meet the Team!](ciencia-de-dados/meet-the-team.md)
 
-## Collaborating
+## Visão Sistêmica
 
-* [🤝 How we Work Together](collaborating/how-we-work-together.md)
-* [📅 Meetings](collaborating/meetings.md)
+* [🤝 How we Work Together](visao-sistemica/how-we-work-together.md)
+* [📅 Meetings](visao-sistemica/meetings.md)
 
-## Policies
+## Arquitetura Institucional
 
-* [🌴 Requesting Time Off](policies/requesting-time-off.md)
+* [🌴 Requesting Time Off](arquitetura-institucional/requesting-time-off.md)
