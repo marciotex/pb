@@ -2,13 +2,14 @@
 
 * [Apresentação](README.md)
 
-## GEPAP
+## Processos de Negócio
 
-* [🚀 Vision, Mission & Focus](gepap/vision-mission-and-focus/README.md)
-  * [Vision](gepap/vision-mission-and-focus/vision.md)
-  * [Mission](gepap/vision-mission-and-focus/mission.md)
-  * [Focus](gepap/vision-mission-and-focus/focus.md)
-* [💖 Values](gepap/values.md)
+* [⚙ Caracterização](processos-de-negocio/caracterizacao.md)
+* [💖 Modelagem](processos-de-negocio/modelagem.md)
+* [🚀 GEPAP](processos-de-negocio/gepap/README.md)
+  * [Pesquisa de Processo](processos-de-negocio/gepap/pesquisa-de-processo.md)
+  * [Análise de Processo](processos-de-negocio/gepap/analise-de-processo.md)
+  * [Desenho de Processo](processos-de-negocio/gepap/desenho-de-processo.md)
 
 ## 🔬 Ciência? de Dados
 
