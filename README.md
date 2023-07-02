@@ -12,9 +12,9 @@ coverY: 0
 
 Sou curioso. Tenho particular interesse em compreender os "comos" e os "porquês" das coisas, em  descobrir ou conjecturar sobre as razões disto e daquilo. Este traço tem estado presente também - talvez especialmente - na dimensão profissional da minha vida como trabalhador do serviço público.&#x20;
 
-Tenho, assim, nestes tantos anos de serviço públicos, descoberto, aprendido e inventado muitas coisas. Escrevo este livro, que é um registro de algumas delas, para servir de ajuda-memória a mim mesmo. Tento coletar, juntar e "fazer sentido junto" uma porção de reflexões, notas, ferramentas de trabalho que, de outro modo, estariam completamente dispersas em espaços diferentes.
+Tenho, assim, nestes tantos anos de serviço públicos, descoberto, aprendido e inventado muitas coisas. Escrevo este livro, que é um registro de algumas delas, para servir de ajuda-memória a mim mesmo. Tento coletar, juntar e "fazer sentido junto" uma porção de reflexões, notas, ferramentas de trabalho que, de outro modo, estariam completamente dispersas em espaços diferentes. Juntadas, estas coisas podem ser melhor reaproveitadas e entendidas. E juntá-las é também uma forma de aprimorar o que foi desenvolvido.&#x20;
 
-Faço isto no formato de um livro público e gratuito, pois além de ser útil para mim, talvez possa ser útil a mais pessoas.
+Registro estas coisas no formato de um livro público e gratuito, pois além de ser útil para mim, talvez possa ser também para mais pessoas.
 
 <details>
 
